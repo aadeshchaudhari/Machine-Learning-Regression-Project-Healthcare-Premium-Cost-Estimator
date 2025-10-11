@@ -48,29 +48,29 @@ Feature	Description
 
 Follow the steps below to set up the project locally:
 
-** Clone the repository **
+**Clone the repository**
 git clone https://github.com/aadeshchaudhari/Machine-Learning-Regression-Project-Healthcare-Premium-Cost-Estimator.git
 cd Machine-Learning-Regression-Project-Healthcare-Premium-Cost-Estimator
 
-** Create and activate a virtual environment **
+**Create and activate a virtual environment**
 python -m venv venv
 source venv/bin/activate    # On Windows use: venv\Scripts\activate
 
-** Install dependencies **
+**Install dependencies**
 pip install -r requirements.txt
 
-** Run the Streamlit web app **
+**Run the Streamlit web app**
 streamlit run main.py
 
 
-** Create and activate a virtual environment **
+**Create and activate a virtual environment**
 python -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 
-** Install dependencies v
+**Install dependencies v**
 pip install -r requirements.txt
 
-** Run the Streamlit web app **
+**Run the Streamlit web app**
 streamlit run main.py
 
 
