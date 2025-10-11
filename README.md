@@ -28,18 +28,21 @@ Individuals: to understand premium variations based on lifestyle and health choi
 The model predicts insurance premiums using the following input features:
 
 Feature	Description
-Age	Input age between 18–100. Premiums increase with age.
-Number of Dependants	More dependants may increase premiums.
-Income (₹ Lakhs)	Higher income can indicate preference for premium plans.
-Genetical Risk (0–5)	Higher genetic risk increases premium.
-Insurance Plan	Choose between Bronze, Silver, or Gold.
-Employment Status	Options: Salaried, Self-employed, Freelancer.
-Gender	Male / Female. May influence health risk factors.
-Marital Status	Married or Single. Impacts coverage needs.
-BMI Category	Normal, Overweight, Obesity, Underweight.
-Smoking Status	No Smoking / Regular / Occasional.
-Region	Northwest, Southeast, Northeast, or Southwest.
-Medical History	Conditions like diabetes or hypertension increase premiums.
+| **Feature**              | **Description**                                             |
+| ------------------------ | ----------------------------------------------------------- |
+| **Age**                  | Input age between 18–100. Premiums increase with age.       |
+| **Number of Dependants** | More dependants may increase premiums.                      |
+| **Income (₹ Lakhs)**     | Higher income can indicate preference for premium plans.    |
+| **Genetical Risk (0–5)** | Higher genetic risk increases premium.                      |
+| **Insurance Plan**       | Choose between **Bronze**, **Silver**, or **Gold**.         |
+| **Employment Status**    | Options: Salaried, Self-employed, Freelancer.               |
+| **Gender**               | Male / Female. May influence health risk factors.           |
+| **Marital Status**       | Married or Single. Impacts coverage needs.                  |
+| **BMI Category**         | Normal, Overweight, Obesity, Underweight.                   |
+| **Smoking Status**       | No Smoking / Regular / Occasional.                          |
+| **Region**               | Northwest, Southeast, Northeast, or Southwest.              |
+| **Medical History**      | Conditions like diabetes or hypertension increase premiums. |
+
 
 ## 4. Installation Instructions
 
