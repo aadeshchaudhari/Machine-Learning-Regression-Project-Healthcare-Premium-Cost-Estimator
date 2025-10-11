@@ -1,4 +1,4 @@
-### Health Premium Prediction Model
+# Health Premium Prediction Model
 
 This project implements a Health Premium Prediction Model that predicts health insurance premiums based on personal and medical attributes.
 The model uses:
