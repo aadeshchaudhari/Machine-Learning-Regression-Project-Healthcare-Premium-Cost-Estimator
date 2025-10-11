@@ -19,21 +19,9 @@ Insurance companies: to estimate customer premiums efficiently
 Individuals: to understand premium variations based on lifestyle and health choices
 
 ## 2. Project Structure
-ml-health-premium-prediction/
-│
-├── main.py                                # Streamlit application file
-├── prediction_helper.py                   # Helper functions for preprocessing & prediction
-├── requirements.txt                       # Python dependencies
-├── README.md                              # Project documentation
-│
-├── ml_premium_prediction_young_with_gr.ipynb   # Modeling for age ≤ 25 group
-├── ml_premium_prediction_rest_with_gr.ipynb    # Modeling for age > 25 group
-│
-└── artifacts/                             # Model artifacts
-    ├── model_young.joblib                 # Serialized model (age ≤ 25)
-    ├── model_rest.joblib                  # Serialized model (age > 25)
-    ├── scaler_young.joblib                # Scaler (age ≤ 25)
-    └── scaler_rest.joblib                 # Scaler (age > 25)
+
+<img width="1010" height="539" alt="Screenshot 2025-10-12 002740" src="https://github.com/user-attachments/assets/99b6cd4e-f9b3-4423-ae2f-3df2c6ecbebb" />
+
 
 ## 3. Features Used for Prediction
 
