@@ -46,8 +46,7 @@ Medical History	Conditions like diabetes or hypertension increase premiums.
 Follow the steps below to set up the project locally:
 
 # Clone the repository
-git clone https://github.com/Vraj-Data-Scientist/ml-health-premium-prediction.git
-cd ml-health-premium-prediction
+git clone https://github.com/aadeshchaudhari/Machine-Learning-Regression-Project-Healthcare-Premium-Cost-Estimator.git
 
 # Create and activate a virtual environment
 python -m venv venv
