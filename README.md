@@ -20,7 +20,7 @@ Individuals: to understand premium variations based on lifestyle and health choi
 
 ## 2. Project Structure
 
-<img width="1010" height="539" alt="Screenshot 2025-10-12 002740" src="https://github.com/user-attachments/assets/99b6cd4e-f9b3-4423-ae2f-3df2c6ecbebb" />
+<img width="1021" height="523" alt="Screenshot 2025-10-12 004440" src="https://github.com/user-attachments/assets/49e3a5c0-a924-4c59-85dd-4c494f5b62cc" />
 
 
 ## 3. Features Used for Prediction
